@@ -482,6 +482,7 @@ With email aliases , you can finally create a different identity for each websit
 - [Logseq](https://logseq.com/) - A privacy-first alternative to WorkFlowy.
 - [Nextcloud Notes](https://github.com/nextcloud/notes/) - The Notes app is a distraction free notes taking app for Nextcloud.
   - [Nextcloud Notes for Android](https://github.com/stefan-niedermann/nextcloud-notes) - An android client for Nextcloud Notes.
+- [Vikunja](https://vikunja.io) - The open-source to-do app to organize your life.
 
 ## Video Conferencing
 <img width="16" src="misc/forbidden.png"> </img> **Avoid**
@@ -522,6 +523,7 @@ If you need an app for **menstrual cycle tracking** please don't use any apps li
     - [OFF Apps](https://world.openfoodfacts.org/open-food-facts-mobile-app)
 - [Drip](https://bloodyhealth.gitlab.io/) - Menstrual cycle and fertility tracking. Everything you enter stays on your device.
 - [log28](https://github.com/wildeyedskies/log28) - a (very) simple no-frills period tracker for Android.
+- [OpenTracks](https://github.com/OpenTracksApp/OpenTracks) - OpenTracks is a sport tracking application that completely respects your privacy.
 
 ## Media Streaming Platforms
 <img width="16" src="misc/forbidden.png"> </img> **Avoid**
@@ -604,6 +606,7 @@ If you need an app for **menstrual cycle tracking** please don't use any apps li
 - [Umami](https://umami.is/) - A simple, fast, website analytics alternative to Google Analytics.
 - [Aurora](https://useaurora.app/) - 100% Cookie-Free Open Website Analytics. Collect Anonymous Data. Make your Audience Happy Now!
 - [Nullitics](https://nullitics.com/) - Zero-effort open-source cheap analytics.
+- [Ackee](https://ackee.electerious.com/) - Self-hosted website analytics.
 - [Shynet](https://github.com/milesmcc/shynet) - Modern, privacy-friendly, and detailed web analytics that works without cookies or JS.
 
 ## Captchas
@@ -612,7 +615,6 @@ If you need an app for **menstrual cycle tracking** please don't use any apps li
 Google captchas use cookies to track users and rank their IPs.
 
 - Google reCAPTCHA
-
 
 <img width="16" src="misc/check.png"> </img>  **Instead use**
 - [DoomCaptcha](https://github.com/vivirenremoto/doomcaptcha) - Captchas don't have to be boring [READ THE DISCLAIMER ON PROJECT'S WEBSITE](https://vivirenremoto.github.io/doomcaptcha/).
